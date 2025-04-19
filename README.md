@@ -13,22 +13,22 @@
 ## 🧰 Tech Stack
 
 **Languages & Frameworks:**  
-<img src="https://img.icons8.com/color/48/html-5.png" width="30" title="HTML5" /> 
-<img src="https://img.icons8.com/color/48/css3.png" width="30" title="CSS3" />
-<img src="https://img.icons8.com/color/48/javascript--v1.png" width="30" title="JavaScript" /> 
-<img src="https://img.icons8.com/color/48/react-native.png" width="30" title="React.js" />
-<img src="https://img.icons8.com/color/48/python--v1.png" width="30" title="Python" />
-<img src="https://img.icons8.com/windows/48/django.png" width="30" title="Django" />
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-nodejs-is-an-open-source-cross-platform-javascript-runtime-environment-logo-color-tal-revivo.png" width="30" title="Node.js"/>
-<img src="https://img.icons8.com/color/48/mongodb.png" width="30" title="MongoDB"/>
-<img src="https://img.icons8.com/ios-filled/50/mysql-logo.png" width="30" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React.js"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" title="Django"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" title="Node.js"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" title="MongoDB"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" title="MySQL"/> 
 
 **Tools & Platforms:**  
-<img src="https://img.icons8.com/fluency/48/pycharm.png" width="30" title="PyCharm" />
-<img src="https://img.icons8.com/color/48/git.png" width="30" title="Git" />
-<img src="https://img.icons8.com/ios-glyphs/30/github.png" width="30" title="GitHub" />
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="30" title="VS Code" />
-<img src="https://img.icons8.com/color/48/netlify.png" width="30" title="Netlify" />
-<img src="https://img.icons8.com/color/48/vercel.png" width="30" title="Vercel" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg" width="30" title="PyCharm"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" title="GitHub"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" title="VS Code"/> 
+<img src="https://user-images.githubusercontent.com/911434/190622869-745ff2a4-2a76-4fe9-a377-9f2b4a49f2f4.png" width="30" title="Vercel"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="30" title="Netlify"/>
 
 ---

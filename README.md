@@ -12,7 +12,7 @@
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshara-s-s/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-24292E?style=for-the-badge&logo=vercel&logoColor=white)]([https://sreeram-portfolio.vercel.app/](https://portfolio-website-gold-omega-93.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-24292E?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-gold-omega-93.vercel.app/)
 
 ---
 

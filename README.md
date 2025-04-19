@@ -27,26 +27,6 @@
 <img src="https://img.icons8.com/color/48/git.png" width="30"/> 
 <img src="https://img.icons8.com/ios-glyphs/30/github.png" width="30"/> 
 <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="30"/> 
-<img src="https://img.icons8.com/color/48/netlify.png" width="30"/> 
-<img src="https://img.icons8.com/color/48/vercel.png" width="30"/>
+
 
 ---
-
-## 📁 Featured Projects
-
-- 🎬 **Movie App** – Browse trending, upcoming & top-rated films with TMDb API and a sleek UI.
-- 🌤️ **Weather App** – Get real-time weather updates using OpenWeatherMap API.
-- 🛍️ **E-Commerce Site** – Full-stack responsive shopping experience.
-- 👩‍💻 **Portfolio Website** – Personal site to showcase my work and skills.
-
----
-
-## 📊 GitHub Stats
-
-![Akshara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aksharass&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aksharass&layout=compact&theme=tokyonight)
-
----
-
-> 💬 _"Learning never exhausts the mind. Let’s code the future together!"_
-

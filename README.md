@@ -1,6 +1,6 @@
-## 👋 Hi, I'm Akshara S S
+# 👋 Hi, I'm Akshara S S
 
-### 💻 Frontend Web Developer  
+## 💻 Frontend Web Developer | Passionate Coder | Lifelong Learner
 <img align="right" width="370" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRqbXp1cGgzNXhxeDZsc2J3bzA2cXJvNnM3dWVxaHNhMjB2bnloeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 🚀 Currently interning at **Ateam Soft Solutions Pvt Ltd**  
@@ -36,7 +36,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" title="GitHub"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" title="VS Code"/> 
-<img src="https://user-images.githubusercontent.com/911434/190622869-745ff2a4-2a76-4fe9-a377-9f2b4a49f2f4.png" width="30" title="Vercel"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="30" title="Netlify"/>
 
 ---

@@ -1,57 +1,52 @@
-## 👋 Hello, I'm Akshara S S
+# 👋 Hi there! I'm Akshara S S
 
-### 🚀 Frontend Web Developer | React Enthusiast
+### 🌐 Frontend Web Developer | Passionate Coder | Lifelong Learner
 
-<img align="right" width="370" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRqbXp1cGgzNXhxeDZsc2J3bzA2cXJvNnM3dWVxaHNhMjB2bnloeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
+🚀 I build responsive and user-friendly web applications with a focus on great UI/UX.
 
-- 🔭 Check out my [Portfolio](https://sreeram-portfolio.vercel.app/)
-- 💼 Currently doing my internship at **Ateam Soft Solutions Pvt Ltd**
-- 👀 Passionate about building interactive and accessible web applications
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/akshara-s-s/)
-- ⚡ Fun Fact: I enjoy debugging as much as building!
+💼 Currently doing my internship at **Ateam Soft Solutions Pvt Ltd**
 
----
-
-### 🛠️ Tech Stack
-
-**Languages & Frameworks:**
-
-<img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/tailwind_css.png" />
-<img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/javascript--v1.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/nodejs.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png" />
-
-**Tools & Platforms:**
-
-<img height="50" width="50" src="https://img.icons8.com/color/48/git.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/github--v1.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/netlify.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/vercel.png" />
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/akshara-s-s/)  
+🌍 Visit my [Portfolio Website](https://sreeram-portfolio.vercel.app/)
 
 ---
 
-### 📈 GitHub Stats
+## 🧰 Tech Stack
 
-![Akshara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aksharass&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aksharass&layout=compact&theme=radical)
+**Languages & Frameworks:**  
+<img src="https://img.icons8.com/color/48/html-5.png" width="30"/> 
+<img src="https://img.icons8.com/color/48/css3.png" width="30"/> 
+<img src="https://img.icons8.com/color/48/bootstrap.png" width="30"/> 
+<img src="https://img.icons8.com/color/48/tailwind_css.png" width="30"/> 
+<img src="https://img.icons8.com/color/48/javascript--v1.png" width="30"/> 
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" width="30"/> 
+<img src="https://img.icons8.com/color/48/nodejs.png" width="30"/> 
+<img src="https://img.icons8.com/color/48/mongodb.png" width="30"/>
+
+**Tools & Platforms:**  
+<img src="https://img.icons8.com/color/48/git.png" width="30"/> 
+<img src="https://img.icons8.com/ios-glyphs/30/github.png" width="30"/> 
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="30"/> 
+<img src="https://img.icons8.com/color/48/netlify.png" width="30"/> 
+<img src="https://img.icons8.com/color/48/vercel.png" width="30"/>
 
 ---
 
-### ✨ Notable Projects
+## 📁 Featured Projects
 
-- **Personal Portfolio Website** – Responsive site built with React.js and Tailwind CSS
-- **Movie Browsing App** – Dynamic UI powered by TMDb API
-- **E-Commerce Website** – Full-stack application for online shopping
-- **Weather App** – Real-time weather updates using OpenWeather API
+- 🎬 **Movie App** – Browse trending, upcoming & top-rated films with TMDb API and a sleek UI.
+- 🌤️ **Weather App** – Get real-time weather updates using OpenWeatherMap API.
+- 🛍️ **E-Commerce Site** – Full-stack responsive shopping experience.
+- 👩‍💻 **Portfolio Website** – Personal site to showcase my work and skills.
+
+---
+
+## 📊 GitHub Stats
+
+![Akshara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aksharass&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aksharass&layout=compact&theme=tokyonight)
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
-
----
+> 💬 _"Learning never exhausts the mind. Let’s code the future together!"_
 

@@ -5,8 +5,9 @@
 
 🔭 Currently interning at **Ateam Soft Solutions Pvt Ltd**  
 🌱 Passionate about full-stack development and clean UI/UX  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/akshara-s-s/)  
-🌐 Explore my [Portfolio](https://sreeram-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshara%20S%20S-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshara-s-s/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-ff69b4?style=for-the-badge&logo=vercel)](https://sreeram-portfolio.vercel.app/)
+
 
 ---
 

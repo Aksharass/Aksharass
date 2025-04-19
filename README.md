@@ -3,10 +3,17 @@
 ### 💻 Frontend Web Developer  
 <img align="right" width="370" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRqbXp1cGgzNXhxeDZsc2J3bzA2cXJvNnM3dWVxaHNhMjB2bnloeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-🔭 Currently interning at **Ateam Soft Solutions Pvt Ltd**  
-🌱 Passionate about full-stack development and clean UI/UX  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshara%20S%20S-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshara-s-s/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-ff69b4?style=for-the-badge&logo=vercel)](https://sreeram-portfolio.vercel.app/)
+🚀 Currently interning at **Ateam Soft Solutions Pvt Ltd**  
+🌱 Passionate about building full-stack applications with clean and responsive UI  
+📬 Let's connect and explore opportunities together  
+
+---
+
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshara-s-s/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-24292E?style=for-the-badge&logo=vercel&logoColor=white)](https://sreeram-portfolio.vercel.app/)
+
 
 
 ---
